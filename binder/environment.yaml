@@ -1,0 +1,68 @@
+name: taos-data
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  # development
+  - jupyterlab
+  - ipykernel
+  - ipython
+  - jupyterlab_code_formatter
+  - black
+  - isort
+  - rich
+  - pre-commit
+  - graphviz
+  - python-graphviz
+  # general computing
+  - xarray
+  - more-itertools
+  - scipy
+  - flox
+  - numba
+  # units, bounds, and cf-conventions
+  - pint-xarray
+  - cf_xarray
+  # geographic manipulations
+  - pyproj
+  - cartopy
+  - shapely
+  - odc-geo
+  - regionmask
+  - geopandas
+  - xesmf
+  # I/O
+  - pystac
+  - pystac-client
+  - netcdf4
+  - h5netcdf
+  - zarr
+  - fsspec
+  - pooch
+  # machine learning
+#  - scikit-learn
+#  - optuna
+  # distributed computing
+  - dask
+  - distributed
+  - dask-labextension
+  - dask-image
+  - dask-ml
+  # plotting
+  - hvplot
+  - holoviews
+  - geoviews
+  - datashader
+  - panel
+  - selenium
+  - folium
+  - cmocean
+  # fft
+  - xrft
+  # git
+  - jupyterlab-git
+  - git
+  # data
+  - intake
+  - kerchunk
+  - zstandard
