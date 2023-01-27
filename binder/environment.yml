@@ -64,5 +64,7 @@ dependencies:
   - git
   # data
   - intake
+  - intake-xarray
   - kerchunk
   - zstandard
+  - fsspec
