@@ -30,7 +30,7 @@ dependencies:
   - odc-geo
   - regionmask
   - geopandas
-  - xesmf
+#  - xesmf
   # I/O
   - pystac
   - pystac-client
@@ -68,3 +68,5 @@ dependencies:
   - kerchunk
   - zstandard
   - fsspec
+  # grid
+  - healpix
