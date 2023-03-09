@@ -1,6 +1,6 @@
 # JupyterLab + Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinaok/taos-data/HEAD?urlpath=lab/tree/index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tinaok/taos-data/HEAD?urlpath=lab/tree/taos-data/notebooks/ref-marc.ipynb)
 
 
 
